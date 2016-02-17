@@ -1,9 +1,6 @@
 # FC1
 made some changes guys
 
-<<<<<<< HEAD
-My favorite candy is Sour Patch Kids
-=======
 made some more changes coooooooooooool 
 
 ^_^ 
